@@ -1,0 +1,1 @@
+Songs-app is related to a "wall" where users can share and rate their songs and make comments about each song.

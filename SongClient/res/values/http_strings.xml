@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- base values -->
+    <string name="host">192.168.1.129</string>
+    <string name="port">8080</string>
+    <string name="basepath">/SongServer/rest</string>
+    <!-- resources -->
+    <string name="test_rest">/test</string>
+    <string name="song_list_rest">/songs</string>
+</resources>

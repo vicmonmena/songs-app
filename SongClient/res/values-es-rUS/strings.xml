@@ -1,0 +1,10 @@
+<resources>
+    <!-- Espanol de EEUU -->
+    <string name="app_name">SongClient</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="menu_settings">Propiedades</string>
+    <string name="search_song_hint">Imputa un nombre chevere! si?</string>
+    <string name="empty_songs_list">¿Donde fueron?</string>
+    <string name="loading_songs_text">Esperate un poquito no mas!</string>
+    <string name="loading_songs_hint">Esperate un poquito no mas!</string>
+</resources>

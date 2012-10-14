@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">SongClient</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="menu_settings">Opciones</string>
+    <string name="search_song_hint">Introduce un nombre</string>
+    <string name="empty_songs_list">No hay canciones</string>
+    <string name="loading_songs_text">Cargando canciones</string>
+    <string name="loading_songs_hint">Cargando canciones</string>
+</resources>
